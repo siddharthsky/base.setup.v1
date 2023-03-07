@@ -1,14 +1,13 @@
 from setuptools import find_packages,setup
-
-HYPEN_E_DEOT = "-e ."
+hypen_e_dot = "-e ."
 
 def get_requirements(file_path:str):
     rx = []
     with open(file_path) as file_obj:
         rx =file_obj.readlines()
         rx= [x.replace("\n","") for x in rx]
-        if HYPEN_E_DEOT in rx:
-            rx.remove(HYPEN_E_DEOT)
+        if hypen_e_dot in rx:
+            rx.remove(hypen_e_dot)
     return rx
 
 
