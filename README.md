@@ -19,3 +19,4 @@ To get started, simply: <br>
     2. Create conda environment and then "pip install -r requirements.txt"
     3. Update the README with project details
     4. Customize files/folders as needed for your project
+    5. Start working on your project!
