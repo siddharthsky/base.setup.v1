@@ -20,3 +20,6 @@ To get started, simply: <br>
     3. Update the README with project details
     4. Customize files/folders as needed for your project
     5. Start working on your project!
+
+Credits :
+@KrishNaik06
