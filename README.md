@@ -5,6 +5,7 @@ This repository aims to provide a standardized setup for all future data science
 
     -Basic project structure
     -Language setup (Python ,dependencies)
+    -Logging and Custom Exceptions 
     -Environment setup
     -CI/CD pipelines
     -Docker support (soon)
